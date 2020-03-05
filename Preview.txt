@@ -1,0 +1,5 @@
+For this preview, I was able to get my website's layout to look similar to what I had envisioned during our class session. I used www.w3schools.com to learn more about formatting layouts and some of the code that I used to was used and tailored to fit my project from this source. I used light colors to fit the 'aesthetic' that I was going for. Since this is all about Instagram photo spots, I wanted everything to look young and trendy. 
+
+For now, I kept all of my style code in the header of the HTML file. I need to transfer thhis to a CSS Style Sheet and then link it to my HTML file. I think with this structure, I will easily be able to recreate the other HTML files because they will all have the same layout -- I'll just need to change the content and images in each HTML file. I'm not sure what I'll have my landing page be yet. 
+
+I also think I need to work on organization. I kept the links and images in the same 'docs' folder because that is easiest for me to link without messing it up. I'm trying to learn how to link to a different folder within the same folder... kind of confused. Will try again tomorrow!
