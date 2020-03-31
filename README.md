@@ -6,4 +6,6 @@ I used the color palette of white, beige, yellow, and rose pink to lighten the m
 
 For every page, I included a short description about the spot and links to return back to the landing page (home), previous suggestion, next suggestion, and total sitemap. I played around with a CSS Float layout, which was quite challenging as some elements of my layout kept on being affected with every minor change I did with sizing. 
 
-Overall, I am pretty happy with this basic site. In my spare time, I would like to add JS into my site to be able to do some cool animations and hover effects!
+While I would have liked to add more images of the actual locations, I wasn't able to do so due to being quarantined from COVID19. However, once able to, I'd like to go out and visit each location again to take the pictures. 
+
+Overall, I am pretty happy with this basic site. In my spare time, I would like to add JS into my site to be able to do some cool animations and more hover effects!
